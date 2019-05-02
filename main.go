@@ -2,10 +2,10 @@ package main
 
 import (
 	"os"
-	"sample-plugin/sample"
 
 	"github.com/hashicorp/go-hclog"
 	"github.com/hashicorp/go-plugin"
+	"github.com/jpninanjohn/sample-plugin/sample"
 )
 
 // Here is a real implementation of Greeter
