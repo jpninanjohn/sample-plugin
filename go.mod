@@ -1,4 +1,4 @@
-module sample-plugin
+module github.com/jpninanjohn/sample-plugin
 
 go 1.12
 
